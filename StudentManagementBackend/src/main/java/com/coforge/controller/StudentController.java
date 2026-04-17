@@ -15,7 +15,7 @@ import com.coforge.entities.Student;
 import com.coforge.services.StudentService;
 
 @RestController
-@CrossOrigin
+// @CrossOrigin
 
 public class StudentController {
   @Autowired

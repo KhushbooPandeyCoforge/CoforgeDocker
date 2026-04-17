@@ -1,0 +1,11 @@
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/ServletInitializer.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/StudentManagementBackendApplication.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/config/WebConfig.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/controller/StudentController.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/controller/package-info.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/entities/Student.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/entities/package-info.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/repositories/StudentRepository.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/repositories/package-info.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/services/StudentService.java
+/workspaces/CoforgeDocker/StudentManagementBackend/src/main/java/com/coforge/services/package-info.java
